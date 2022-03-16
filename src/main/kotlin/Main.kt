@@ -1,4 +1,3 @@
-// fun es la declaración de una función
 fun main() {
     println("Hola mundo!")
 
